@@ -95,8 +95,6 @@ function countUsingDoWhile() {
  //[SECTION] How to access elements of a string using repetition control structures? 
 
 
-
-
 function accessElementsInString() {
    //get the input of the user. using DOM selectors
    let name = document.getElementById('userName').value;
